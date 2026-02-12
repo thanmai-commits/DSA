@@ -27,7 +27,7 @@ public class SelectionSort {
     }
 
     public static void main(String[] args) {
-        int [] arr = {5,4,3,2,1};
+        int [] arr = {1,8,6,2,5,4,8,3,7};
         selection(arr);
         System.out.println(Arrays.toString(arr));
     }
